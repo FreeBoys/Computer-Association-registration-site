@@ -13,9 +13,9 @@ class db_class extends Smarty
  public function Start_db($xh,$xm,$xb,$zy,$bj,$QQ)
 	{
 		$db_path = 'localhost';
-		$db_user = 'webFree4872';
-		$db_pass = 'webFree';
-		$db_db = 'webFree4872';
+		$db_user = 'user';
+		$db_pass = 'password';
+		$db_db = 'student';
 
 	$sql = mysql_connect("$db_path","$db_user","$db_pass");
 	mysql_query("set names utf8;"); 
