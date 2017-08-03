@@ -1,0 +1,58 @@
+@charset "utf8";
+/*div{border-color:#0CB53F; order:1px; border-style:solid;}*/
+body{
+        margin:0 auto;
+
+}
+#main_w{
+        margin:0 auto;
+        margin-top: 5%;
+        width:1024px;
+        height:600px;
+        border-radius:5px; 
+        border: 1px solid #737774;
+        background-color: #ffffff;
+        
+}
+
+.wk{
+    margin-top:2%;
+    margin-left: 43%;
+    font-size: 20px;
+    width:350px;
+
+
+}
+
+.titl{
+    margin-top:2%;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 900px;
+}
+
+.back{
+        margin-top:3%;
+        font-size: 30px;
+        text-align: center;
+        font-weight: 900px;
+}
+
+.f_1{
+          position:absolute;
+         z-index: 99999;
+      
+        width: 500px;
+        height: 500px;
+        background-color: #ffffff;
+        border: 1px solid #737774;
+        margin-left: 36%;
+        margin-top: 3%;
+        border-radius: 9px;
+        opacity:0.9;/*opacity:0.9 设置透明度*/
+	filter:alpha(opacity=80);/* 针对 IE8 以及更早的版本 */
+        text-align: center;
+        line-height: 90px;
+
+       
+}

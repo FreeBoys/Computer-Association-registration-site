@@ -1,0 +1,15 @@
+	@charset "utf-8";
+    #bg{
+		width:auto;
+		height:950px;
+		margin:auto;
+		background-color:#CBC4C4;
+		background-image:url(../img/3.jpg);
+		background-repeat:no-repeat;
+		background-size:cover;
+		background-position:center; 
+		overflow:hidden;
+		position:absolute;
+		z-index:-1;
+
+	}

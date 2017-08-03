@@ -1,0 +1,38 @@
+/* CSS Document */
+/*div{border-color:#0CB53F; order:1px; border-style:solid;}*/
+body{
+		margin:0 auto;
+        background-color:#ffffff;
+	}
+
+#erro{
+        margin:0 auto;
+        margin-top:5%;
+        width:1024px;
+        height:600px;
+        background-color: #ffffff;
+        /*div设置为圆角*/
+		border-radius:5px; 
+		border:1px solid #737774;
+		/*END*/
+}
+
+#jz{
+
+    /*margin: 0 auto;*/
+    margin-top: 21%;
+}
+
+#text1{
+    text-align: center;
+    font-size: 23px;
+    font-weight: 800;
+}
+
+#text2{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 23px;
+    font-weight: 800;
+}
+
